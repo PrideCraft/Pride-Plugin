@@ -1,0 +1,4 @@
+name: Pride-Plugin
+version: '${project.version}'
+main: pridecraft.networkPlugin.PridePlugin
+api-version: 1.19
